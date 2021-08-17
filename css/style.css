@@ -149,7 +149,7 @@ hr {
 	padding: 0;
 	text-align: center;
 	color: #333;
-	background: url(../img/intro-bg.jpg) no-repeat center top;
+	background: url(../img/intro-bg.jpg) no-repeat center center;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -186,8 +186,8 @@ header .intro-text {
 }
 #about img {
 	border-radius: 50%;
-	width: 160px;
-	height: 160px;
+	width: 225px;
+	height: 225px;
 	display: inline-block;
 }
 #about p {
@@ -382,15 +382,16 @@ color: #2c3e50;
 color: #2c3e50;
 }
 #contact .social {
-	margin-top: 80px;
+	margin-top: 0px;
+	margin-bottom: 20px;
 }
 #contact .social ul li {
 	display: inline-block;
-	margin: 0 20px;
+	margin: 0 50px;
 }
 #contact .social i.fa {
-	font-size: 22px;
-	padding: 4px;
+	font-size: 30px;
+	padding: 10px;
 	color: #444;
 	transition: all 0.5s;
 }
