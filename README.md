@@ -4,4 +4,4 @@
 
 A responsive personal website designed to showcase my portfolio, including both personal and academic projects. Designed by TemplateWire.
 
-[aronsaengchan.com](https://aronsaengchan.com/)
+<a href="https://aronsaengchan.com/" target="_blank">aronsaengchan.com</a>
