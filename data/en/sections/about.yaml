@@ -1,0 +1,50 @@
+# Section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# Your designation
+designation: Software Engineering Graduate Student
+# Your company information
+company:
+  name: University of Calgary
+  url: https://www.ucalgary.ca/
+
+# Your resume. This file path should be relative to you "static" directory.
+resume: "files/AronSaengchan_Resume.pdf"
+
+# A summary about you
+summary: My name is Aron Saengchan and I am currently a master's student studying software engineering at the University of Calgary.
+         I have prior experience in both engineering consulting and academic research through my background in mechanical engineering.
+         My switch to software engineering was driven by my fascination with technology and I am constantly looking at how I can apply
+         the skills I learn in innovative and meaningful ways.
+
+# Your social links
+# Give as many as you want. Use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "acsaeng@gmail.com"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/aron-saengchan/"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/acsaeng"
+
+# Your soft skills
+# Give the percentage between 50 to 100 with 5 intervals.
+# Currently supported colors: blue, yellow, pink, green, sky, orange
+# softSkills:
+# - name: Leadership
+#   percentage: 85
+#   color: blue
+# - name: Team Work
+#   percentage: 90
+#   color: yellow

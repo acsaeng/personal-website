@@ -1,14 +1,14 @@
 # Some information about you
-name: "Aron Saengchan"
+name: Aron Saengchan
 nickname: ""
 
 # Greeting message before your name. It will default to "Hi! I am" if not provided.
 greeting: ""
-image: ""
+image: images/author-image.jpg
 
 # Give your some contact information. They will be used in the footer.
 contactInfo:
-  email: "acsaeng@gmail.com"
+  email: acsaeng@gmail.com
 
 # Some summary about what you do
 summary:
