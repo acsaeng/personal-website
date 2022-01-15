@@ -8,25 +8,25 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-# Your Skills.
-# Give a summary of you each skill in the summary section.
+# Your Skills
+# Give a summary of you each skill in the summary section
 skills:
 - name: Programming Languages
   logo: images/sections/skills/programming-languages.png
-  summary: "Java, Python, JavaScript, TypeScript, C, C++"
+  summary: Java, Python, JavaScript, TypeScript, C, C++
 
 - name: Web Development
   logo: /images/sections/skills/web-development.png
-  summary: "HTML, CSS, Bootstrap, React, Angular"
+  summary: HTML, CSS, Bootstrap, React, Angular
 
 - name: Databases
   logo: /images/sections/skills/databases.png
-  summary: "MySQL, PostgreSQL"
+  summary: MySQL, PostgreSQL
 
 - name: Data Science
   logo: /images/sections/skills/data-science.png
-  summary: "NumPy, pandas, sci-kit learn, Apache Spark"
+  summary: NumPy, pandas, sci-kit learn, Apache Spark
 
 - name: Other Tools & Technologies
   logo: /images/sections/skills/other-tools-and-tech.png
-  summary: "Git, GitLab, MATLAB, Arduino"
+  summary: Git, GitLab, MATLAB, Arduino

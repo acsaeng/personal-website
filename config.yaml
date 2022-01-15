@@ -13,9 +13,6 @@ languages:
 
 # Control TOC depth
 markup:
-  goldmark:
-    renderer:
-      hardWraps: true
   tableOfContents:
     startLevel: 2
     endLevel: 6
@@ -36,10 +33,10 @@ params:
   background: images/config/background.jpg
 
 # The inverted logo will be used in the initial transparent navbar and the main logo will be used in the non-transparent navbar.
-  # logo:
-  #   main: images/main-logo.png
-  #   inverted: images/inverted-logo.png
-  #   favicon: images/favicon.png
+  logo:
+    main: images/config/main-logo.png
+    inverted: images/config/inverted-logo.png
+    favicon: images/config/main-logo.png
 
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/acsaeng/personal-website

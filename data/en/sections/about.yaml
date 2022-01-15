@@ -15,7 +15,7 @@ company:
   url: https://www.ucalgary.ca/
 
 # Your resume. This file path should be relative to you "static" directory.
-resume: "files/AronSaengchan_Resume.pdf"
+resume: files/AronSaengchan_Resume.pdf
 
 # A summary about you
 summary: My name is Aron Saengchan and I am currently a master's student studying software engineering at the University of Calgary.
@@ -28,15 +28,15 @@ summary: My name is Aron Saengchan and I am currently a master's student studyin
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "acsaeng@gmail.com"
+  url: acsaeng@gmail.com
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/aron-saengchan/"
+  url: https://www.linkedin.com/in/aron-saengchan/
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://github.com/acsaeng"
+  url: https://github.com/acsaeng
 
 # Your soft skills
 # Give the percentage between 50 to 100 with 5 intervals.
