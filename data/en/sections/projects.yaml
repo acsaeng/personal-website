@@ -11,9 +11,9 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Software Engineering
+- name: Software
   filter: "software"
-- name: Mechanical Engineering
+- name: Mechanical
   filter: "mechanical"
 
 # Your projects
