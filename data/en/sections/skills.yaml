@@ -23,13 +23,13 @@ skills:
   logo: /images/sections/skills/databases.png
   summary: MySQL, PostgreSQL
 
-- name: DevOps
-  logo: /images/sections/skills/devops.png
-  summary: Git, GitLab, Docker
-
 - name: Data Science
   logo: /images/sections/skills/data-science.png
   summary: NumPy, pandas, sci-kit learn, Apache Spark
+
+- name: DevOps
+  logo: /images/sections/skills/devops.png
+  summary: Git, GitLab, Docker
 
 - name: Other Tools & Technologies
   logo: /images/sections/skills/other-tools-and-tech.png
