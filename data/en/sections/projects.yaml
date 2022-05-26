@@ -18,6 +18,13 @@ buttons:
 
 # Your projects
 projects:
+- name: Dog Breed Image Classifier
+  logo: images/sections/projects/dog-breed-img-classifier.png
+  repo: https://github.com/acsaeng/dog-breed-image-classifier
+  # url: ""
+  summary: Classification of dog breed images using various deep learning and AutoML methods
+  tags: ["data science", "deep learning", "python", "software"]
+
 - name: Veterinary Medicine Web Application
   logo: images/sections/projects/vet-med-web-app.png
   repo: https://github.com/acsaeng/vet-med-web-app
@@ -25,30 +32,30 @@ projects:
   summary: A web application for the Veterinary School of Medicine department at the University of Calgary
   tags: ["web development", "java", "javascript", "react", "software"]
 
-- name: Sentiment Classification of Movie Reviews
-  logo: images/sections/projects/movie-reviews-sentiment-classification.png
-  repo: https://github.com/acsaeng/movie-reviews-sentiment-classification
+- name: Movie Review Sentiment Classifier
+  logo: images/sections/projects/movie-review-sentiment-classifier.png
+  repo: https://github.com/acsaeng/movie-review-sentiment-classifier
   # url: ""
   summary: Sentiment classification of IMDb movie reviews using natural language processing techniques
   tags: ["data science", "machine learning", "python", "apache spark", "software"]
 
-- name: Survival Classification of Titanic Passengers
-  logo: images/sections/projects/titanic-ml-kaggle-comp.png
-  repo: https://github.com/acsaeng/kaggle-titanic-ml-competition
+- name: Titanic Passenger Survival Classifier
+  logo: images/sections/projects/titanic-passenger-survival-classifier.png
+  repo: https://github.com/acsaeng/titanic-passenger-survival-classifier
   # url: ""
-  summary: Survival classification of passengers aboard the Titanic using a series of machine learning classification models
-  tags: ["machine learning", "python", "sci-kit learn", "competition", "software"]
+  summary: Survival classification of passengers aboard the Titanic using a series of traditional machine learning classification models
+  tags: ["machine learning", "python", "competition", "software"]
 
 - name: Student Course Registration System
   logo: images/sections/projects/student-course-reg-system.png
-  repo: https://github.com/acsaeng/student-course-reg-system
+  repo: https://github.com/acsaeng/student-course-registration-system
   # url: ""
   summary: A GUI-based student course registration system written using an MVC architecture
   tags: ["java", "gui", "software"]
 
 - name: Cryptocurrency Mining Application
   logo: images/sections/projects/crypto-mining-app.png
-  repo: https://github.com/acsaeng/hyl-crypto-mining-hackathon
+  repo: https://github.com/acsaeng/crypto-mining-app
   # url: ""
   summary: A cryptocurrency mining tool that utilizes the current price of Bitcoin to help forecast your returns
   tags: ["java", "hackathon", "software"]

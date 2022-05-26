@@ -8,20 +8,22 @@ section:
   template: sections/about.html
 
 # Your designation
-designation: Software Engineering Graduate Student
+designation: Software Developer
+
 # Your company information
 company:
-  name: University of Calgary
-  url: https://www.ucalgary.ca/
+  name: Arcurve
+  url: https://www.arcurve.com/
 
 # Your resume. This file path should be relative to you "static" directory.
 resume: files/AronSaengchan_Resume.pdf
 
 # A summary about you
-summary: My name is Aron Saengchan and I am currently a master's student studying software engineering at the University of Calgary.
-         I have prior experience in both engineering consulting and academic research through my background in mechanical engineering.
-         My pivot to software engineering was driven by my fascination with technology and I am constantly looking at how I can apply
-         the skills I learn in innovative and meaningful ways.
+summary: My name is Aron Saengchan and I am currently working as a Software Developer at Arcurve. I am a dual graduate at the
+         University of Calgary, holding a B.Sc. in Mechanical Engineering and an M.Eng. in Software Engineering. My prior 
+         experience includes engineering consulting and academic research through previous internships. My pivot to software was
+         ultimately driven by my fascination with technology and I am constantly looking at how I can apply the skills I learn in 
+         innovative and meaningful ways.
 
 # Your social links
 # Give as many as you want. Use font-awesome for the icons.

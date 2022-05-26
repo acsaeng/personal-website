@@ -13,15 +13,19 @@ section:
 skills:
 - name: Programming Languages
   logo: images/sections/skills/programming-languages.png
-  summary: Java, Python, JavaScript, TypeScript, C, C++
+  summary: Java, Kotlin, Python, C, C++, JavaScript, TypeScript, HTML, CSS
 
-- name: Web Development
-  logo: /images/sections/skills/web-development.png
-  summary: HTML, CSS, Bootstrap, React, Angular
+- name: Frameworks
+  logo: /images/sections/skills/frameworks.png
+  summary: React, Angular, Spring Boot, JUnit, Bootstrap
 
 - name: Databases
   logo: /images/sections/skills/databases.png
   summary: MySQL, PostgreSQL
+
+- name: DevOps
+  logo: /images/sections/skills/devops.png
+  summary: Git, GitLab, Docker
 
 - name: Data Science
   logo: /images/sections/skills/data-science.png
@@ -29,4 +33,4 @@ skills:
 
 - name: Other Tools & Technologies
   logo: /images/sections/skills/other-tools-and-tech.png
-  summary: Git, GitLab, MATLAB, Arduino
+  summary: Jira, Figma, MATLAB, Arduino, 
