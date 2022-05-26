@@ -13,7 +13,7 @@ section:
 skills:
 - name: Programming Languages
   logo: images/sections/skills/programming-languages.png
-  summary: Java, Kotlin, Python, C, C++, JavaScript, TypeScript, HTML, CSS
+  summary: Java, Kotlin, Python, C, C++, MATLAB, JavaScript, TypeScript, HTML, CSS
 
 - name: Frameworks
   logo: /images/sections/skills/frameworks.png
@@ -33,4 +33,4 @@ skills:
 
 - name: Other Tools & Technologies
   logo: /images/sections/skills/other-tools-and-tech.png
-  summary: Jira, Figma, MATLAB, Arduino, 
+  summary: Jira, Figma, Arduino
