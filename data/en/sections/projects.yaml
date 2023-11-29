@@ -9,87 +9,108 @@ section:
 
 # Filter buttons
 buttons:
-- name: All
-  filter: "all"
-- name: Software
-  filter: "software"
-- name: Mechanical
-  filter: "mechanical"
+  - name: All
+    filter: 'all'
+  - name: Software
+    filter: 'software'
+  - name: Mechanical
+    filter: 'mechanical'
 
 # Your projects
 projects:
-- name: Dog Breed Image Classifier
-  logo: images/sections/projects/dog-breed-img-classifier.png
-  repo: https://github.com/acsaeng/dog-breed-image-classifier
-  # url: ""
-  summary: Classification of dog breed images using various deep learning and AutoML methods
-  tags: ["data science", "deep learning", "python", "software"]
+  - name: Investment Portfolio Dashboard
+    logo: images/sections/projects/investment-portfolio-dashboard.png
+    repo: https://github.com/acsaeng/investment-portfolio-dashboard
+    # url: ""
+    summary: A web application designed to help keep track of personal investments
+    tags: ['web development', 'react', 'firebase', 'software']
 
-- name: Veterinary Medicine Web Application
-  logo: images/sections/projects/vet-med-web-app.png
-  repo: https://github.com/acsaeng/vet-med-web-app
-  # url: ""
-  summary: A web application for the Veterinary School of Medicine department at the University of Calgary
-  tags: ["web development", "java", "javascript", "react", "software"]
+  - name: Dizzy Bot
+    logo: images/sections/projects/dizzy-bot.png
+    repo: https://github.com/acsaeng/dizzy-bot
+    # url: ""
+    summary: A Discord virtual assistant bot that provides a variety of information
+    tags: ['python', 'software']
 
-- name: Movie Review Sentiment Classifier
-  logo: images/sections/projects/movie-review-sentiment-classifier.png
-  repo: https://github.com/acsaeng/movie-review-sentiment-classifier
-  # url: ""
-  summary: Sentiment classification of IMDb movie reviews using natural language processing techniques
-  tags: ["data science", "machine learning", "python", "apache spark", "software"]
+  - name: Simple Login Page
+    logo: images/sections/projects/login-page.png
+    repo: https://github.com/acsaeng/simple-login-page
+    # url: ""
+    summary: A login page with authentication that can be integrated into other projects
+    tags: ['web development', 'react', 'firebase', 'software']
 
-- name: Titanic Passenger Survival Classifier
-  logo: images/sections/projects/titanic-passenger-survival-classifier.png
-  repo: https://github.com/acsaeng/titanic-passenger-survival-classifier
-  # url: ""
-  summary: Survival classification of passengers aboard the Titanic using a series of traditional machine learning classification models
-  tags: ["machine learning", "python", "competition", "software"]
+  - name: Dog Breed Image Classifier
+    logo: images/sections/projects/dog-breed-img-classifier.png
+    repo: https://github.com/acsaeng/dog-breed-image-classifier
+    # url: ""
+    summary: Classification of dog breed images using various deep learning and AutoML methods
+    tags: ['data science', 'deep learning', 'python', 'software']
 
-- name: Student Course Registration System
-  logo: images/sections/projects/student-course-reg-system.png
-  repo: https://github.com/acsaeng/student-course-registration-system
-  # url: ""
-  summary: A GUI-based student course registration system written using an MVC architecture
-  tags: ["java", "gui", "software"]
+  # - name: Veterinary Medicine Web Application
+  #   logo: images/sections/projects/vet-med-web-app.png
+  #   repo: https://github.com/acsaeng/vet-med-web-app
+  #   # url: ""
+  #   summary: A web application for the Veterinary School of Medicine department at the University of Calgary
+  #   tags: ["web development", "java", "javascript", "react", "software"]
 
-- name: Cryptocurrency Mining Application
-  logo: images/sections/projects/crypto-mining-app.png
-  repo: https://github.com/acsaeng/crypto-mining-app
-  # url: ""
-  summary: A cryptocurrency mining tool that utilizes the current price of Bitcoin to help forecast your returns
-  tags: ["java", "hackathon", "software"]
+  - name: Movie Review Sentiment Classifier
+    logo: images/sections/projects/movie-review-sentiment-classifier.png
+    repo: https://github.com/acsaeng/movie-review-sentiment-classifier
+    # url: ""
+    summary: Sentiment classification of IMDb movie reviews using natural language processing techniques
+    tags: ['data science', 'machine learning', 'python', 'apache spark', 'software']
 
-- name: Ontario Public Library System Portal
-  logo: images/sections/projects/opl-system-portal.png
-  repo: https://github.com/acsaeng/ontario-public-library-system-portal
-  # url: ""
-  summary: An interactive library portal for the Ontario Public Library System
-  tags: ["data science","python", "software"]
+  - name: Titanic Passenger Survival Classifier
+    logo: images/sections/projects/titanic-passenger-survival-classifier.png
+    repo: https://github.com/acsaeng/titanic-passenger-survival-classifier
+    # url: ""
+    summary: Survival classification of passengers aboard the Titanic using a series of traditional machine learning classification models
+    tags: ['machine learning', 'python', 'competition', 'software']
 
-- name: Alberta Innovates' Carbon Fibre Grand Challenge
-  logo: images/sections/projects/ai-cfgc.png
-  # repo:
-  url: https://www.ucalgary.ca/labs/engineering-materials/research/new_materials
-  summary: A research study investigating initial pathways to manufacture carbon fibre from Alberta oilsands asphaltenes via melt spinning
-  tags: ["carbon fibre", "research", "mechanical"]
+  - name: Student Course Registration System
+    logo: images/sections/projects/student-course-reg-system.png
+    repo: https://github.com/acsaeng/student-course-registration-system
+    # url: ""
+    summary: A GUI-based student course registration system written using an MVC architecture
+    tags: ['java', 'gui', 'software']
 
-- name: Filament Pultruder Graphical User Interface
-  logo: images/sections/projects/filament-pultruder-gui.png
-  repo: https://github.com/acsaeng/filament-pultruder-gui
-  # url: ""
-  summary: A functional GUI designed for a filament pultruder device 
-  tags: ["python", "gui", "software"]
+  # - name: Cryptocurrency Mining Application
+  #   logo: images/sections/projects/crypto-mining-app.png
+  #   repo: https://github.com/acsaeng/crypto-mining-app
+  #   # url: ""
+  #   summary: A cryptocurrency mining tool that utilizes the current price of Bitcoin to help forecast your returns
+  #   tags: ["java", "hackathon", "software"]
 
-- name: 3D Printing of Continuous Carbon Fibre-Reinforced Thermoplastic Composites
-  logo: images/sections/projects/3d-printing-cont-cfrtc.png
-  # repo:
-  url: https://www.ucalgary.ca/labs/engineering-materials/research/manufacturing-processes
-  summary: A research study investigating the mechanical performance of 3D printed carbon fibre thermoplastic composites containing a high fibre volume content
-  tags: ["3D printing", "composites", "research", "mechanical"]
+  - name: Ontario Public Library System Portal
+    logo: images/sections/projects/opl-system-portal.png
+    repo: https://github.com/acsaeng/ontario-public-library-system-portal
+    # url: ""
+    summary: An interactive library portal for the Ontario Public Library System
+    tags: ['data science', 'python', 'software']
 
-- name: Demonstration Robot
-  logo: images/sections/projects/demo-robot.png
-  repo: https://github.com/acsaeng/capstone-demonstration-robot
-  summary: A mobile mechanical robot that can successfully shoot a projectile into a target within a specified range
-  tags: ["arduino", "robotics", "software", "mechanical"]
+  - name: Alberta Innovates' Carbon Fibre Grand Challenge
+    logo: images/sections/projects/ai-cfgc.png
+    # repo:
+    url: https://schulich.ucalgary.ca/news/researchers-turning-alberta-oil-sands-bitumen-high-value-carbon-fibres
+    summary: A research study investigating initial pathways to manufacture carbon fibre from Alberta oilsands asphaltenes via melt spinning
+    tags: ['carbon fibre', 'research', 'mechanical']
+
+  - name: Filament Pultruder Graphical User Interface
+    logo: images/sections/projects/filament-pultruder-gui.png
+    repo: https://github.com/acsaeng/filament-pultruder-gui
+    # url: ""
+    summary: A functional GUI designed for a filament pultruder device
+    tags: ['python', 'gui', 'research', 'software']
+
+  - name: 3D Printing of Continuous Carbon Fibre-Reinforced Thermoplastic Composites
+    logo: images/sections/projects/3d-printing-cont-cfrtc.png
+    # repo:
+    url: https://www.ucalgary.ca/labs/engineering-materials/research
+    summary: A research study investigating the mechanical performance of 3D printed carbon fibre thermoplastic composites containing a high fibre volume content
+    tags: ['3D printing', 'composites', 'research', 'mechanical']
+
+  - name: Demonstration Robot
+    logo: images/sections/projects/demo-robot.png
+    repo: https://github.com/acsaeng/capstone-demonstration-robot
+    summary: A mobile mechanical robot that can successfully shoot a projectile into a target within a specified range
+    tags: ['arduino', 'robotics', 'software', 'mechanical']
