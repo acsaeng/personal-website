@@ -22,14 +22,14 @@ projects:
     logo: images/sections/projects/investment-portfolio-dashboard.png
     repo: https://github.com/acsaeng/investment-portfolio-dashboard
     # url: ""
-    summary: A web application designed to help keep track of personal investments
+    summary: A web application designed to help keep track of personal investments and individual assets in real-time
     tags: ['web development', 'react', 'firebase', 'software']
 
   - name: Dizzy Bot
     logo: images/sections/projects/dizzy-bot.png
     repo: https://github.com/acsaeng/dizzy-bot
     # url: ""
-    summary: A Discord virtual assistant bot that provides a variety of information
+    summary: A virtual assistant bot that can be added to any Discord server for users to interact with, providing a variety of information
     tags: ['python', 'software']
 
   - name: Simple Login Page
@@ -38,6 +38,13 @@ projects:
     # url: ""
     summary: A login page with authentication that can be integrated into other projects
     tags: ['web development', 'react', 'firebase', 'software']
+
+  - name: Enverus OpenInvoice RFx Platform
+    logo: images/sections/projects/enverus-openinvoice-rfx-platform.png
+    # repo:
+    url: https://www.enverus.com/business-automation/payables-supply-chain/openinvoice/
+    summary: A customizable  form that serves as a platform to connect buyers and suppliers for services in the oil and gas industry
+    tags: ['web development', 'angular', 'kotlin', 'software']
 
   - name: Dog Breed Image Classifier
     logo: images/sections/projects/dog-breed-img-classifier.png
