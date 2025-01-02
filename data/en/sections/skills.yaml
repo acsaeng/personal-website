@@ -13,11 +13,11 @@ section:
 skills:
   - name: Programming Languages
     logo: images/sections/skills/programming-languages.png
-    summary: Java, Kotlin, Python, C, C++, Node.js, JavaScript, TypeScript, HTML, CSS
+    summary: Java, Kotlin, Python, C, C++, C#, Node.js, JavaScript, TypeScript, HTML, CSS
 
   - name: Frameworks
     logo: /images/sections/skills/frameworks.png
-    summary: React, Angular, Redux, Spring Boot, Bootstrap
+    summary: React, Angular, Redux, ASP.NET Core, Spring Boot, Bootstrap
 
   - name: Databases
     logo: /images/sections/skills/databases.png
@@ -25,7 +25,7 @@ skills:
 
   - name: Testing
     logo: /images/sections/skills/testing.png
-    summary: Jest, React Testing Library, JUnit, Playwright
+    summary: Jest, React Testing Library, JUnit, Playwright, Storybook
 
   # - name: Data Science
   #   logo: /images/sections/skills/data-science.png
@@ -37,4 +37,4 @@ skills:
 
   - name: Other Tools & Technologies
     logo: /images/sections/skills/other-tools-and-tech.png
-    summary: Jira, Confluence, Contentful, Arduino
+    summary: Jira, Confluence, Contentful
