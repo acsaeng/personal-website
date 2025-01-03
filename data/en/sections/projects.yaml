@@ -98,7 +98,7 @@ projects:
   - name: Alberta Innovates' Carbon Fibre Grand Challenge
     logo: images/sections/projects/ai-cfgc.png
     # repo:
-    url: https://schulich.ucalgary.ca/news/researchers-turning-alberta-oil-sands-bitumen-high-value-carbon-fibres
+    url: https://albertainnovates.ca/funding/carbon-fibre-grand-challenge/
     summary: A research study investigating initial pathways to manufacture carbon fibre from Alberta oilsands asphaltenes via melt spinning
     tags: ['carbon fibre', 'research', 'mechanical']
 
