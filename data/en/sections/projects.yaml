@@ -11,55 +11,61 @@ section:
 # filter buttons
 buttons:
   - name: All
-    filter: "all"
+    filter: all
   - name: Mechanical
-    filter: "mechanical"
+    filter: mechanical
   - name: Software
-    filter: "software"
+    filter: software
+  # - name: Professional
+  #   filter: "professional"
+  # - name: Academic
+  #   filter: "academic"
+  # - name: Hobby
+  #   filter: "hobby"
 
 # your projects
 projects:
   - name: Investment Portfolio Dashboard
     logo: /images/sections/projects/investment-portfolio-dashboard.png
-    role:
-    timeline:
+    # role: Contributor
+    # timeline: "March 2018 - Present"
     repo: https://github.com/acsaeng/investment-portfolio-dashboard # If your project is a public repo on GitHub, then provide this link. it will show star count.
     #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
     summary: A web application designed to help keep track of personal investments and individual assets in real-time
-    tags: ["web development", "react", "docker", "software"]
+    tags: [web development, react, docker, software]
 
   - name: Dizzy Bot
     logo: /images/sections/projects/dizzy-bot.png
-    role:
-    timeline:
+    # role: Developer
+    # timeline: "Jun 2018 - Present"
     repo: https://github.com/acsaeng/dizzy-bot
     #url: ""
     summary: A virtual assistant bot that can be added to any Discord server for users to interact with, providing a variety of information
-    tags: ["python", "docker", "software"]
+    tags: [python, docker, software]
 
   - name: Enverus RFx (Capstone Project)
     logo: /images/sections/projects/enverus-rfx.png
-    role:
-    timeline:
+    # role: Team Lead
+    # timeline: "Jan 2017 - Nov 2017"
     url: https://www.enverus.com/products/rfx/
     summary: A customizable form that serves as a platform to connect buyers and suppliers for services in the oil and gas industry
-    tags: ["web development", "angular", "kotlin", "docker", "software"]
+    tags: [web development, angular, kotlin, docker, software]
 
   - name: Alberta Innovates' Carbon Fibre Grand Challenge
     logo: /images/sections/projects/alberta-innovates-cfgc.png
-    role:
-    timeline:
+    # role: Nothing
+    # timeline: "Oct 2019 - Dec 2019"
     # repo: https://github.com/kelseyhightower/nocode
     url: https://albertainnovates.ca/funding/carbon-fibre-grand-challenge/
     summary: A research study investigating initial pathways to manufacture carbon fibre from Alberta oilsands asphaltenes via melt spinning
-    tags: ["carbon fibre", "matlab", "solidworks", "mechanical"]
+    tags: [carbon fibre, matlab, solidworks, mechanical]
 
   - name: 3D Printing of Continuous Carbon Fibre-Reinforced Thermoplastic Composites
     logo: /images/sections/projects/3d-printing-of-cont-cfrtc.png
     # image: /images/sections/projects/toha_website.png
-    role:
-    timeline:
+    # role: Owner
+    # timeline: "Jun 2019 - Present"
     # repo: https://github.com/hossainemruz/toha
     url: https://www.ucalgary.ca/labs/engineering-materials/research
     summary: A research study investigating the mechanical performance of 3D printed carbon fibre thermoplastic composites containing a high fibre volume content
-    tags: ["3d printing", "composites", "matlab", "solidworks", "mechanical"]
+    tags: [3d printing, composites, matlab, solidworks, mechanical]

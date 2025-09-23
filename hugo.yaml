@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: en
-title: "Aron's Personal Website"
+title: Aron's Personal Website
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Aron Saengchan"
+    title: Aron Saengchan
     weight: 1
   # bn:
   #   languageCode: bn

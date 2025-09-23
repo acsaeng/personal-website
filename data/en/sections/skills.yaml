@@ -27,36 +27,45 @@ buttons:
 skills:
   - name: Programming Languages
     logo: /images/sections/skills/programming-languages.png
-    summary: "C, C++, C#, Java, Kotlin, Python, Ruby, HTML, CSS, JavaScript, TypeScript"
-    categories: []
-    url: ""
+    summary: C, C++, C#, Java, Kotlin, Python, Ruby, HTML, CSS, JavaScript, TypeScript
+    # categories: ["container"]
+    # url: "https://kubernetes.io/"
 
   - name: Frameworks & Libraries
     logo: /images/sections/skills/frameworks-and-libraries.png
-    summary: "React, Angular, Redux, Bootstrap, ASP.NET Core, Spring Boot, Ruby on Rails"
-    categories: []
-    url: ""
+    summary: React, Angular, Redux, Bootstrap, ASP.NET Core, Spring Boot, Ruby on Rails
+    # categories: ["basic", "language"]
+    # url: "https://golang.org/"
 
   - name: Databases
     logo: /images/sections/skills/databases.png
-    summary: "MySQL, PostgreSQL, GraphQL"
-    categories: []
-    url: ""
+    summary: MySQL, PostgreSQL, GraphQL
+    # categories: ["others"]
 
   - name: DevOps & CICD
     logo: /images/sections/skills/devops-and-cicd.png
-    summary: "Git, Docker, Jenkins"
-    categories: []
-    url: ""
+    summary: Git, Docker
+    # categories: ["container"]
+    # url: "https://www.docker.com/"
 
   - name: Testing
     logo: /images/sections/skills/testing.png
-    summary: "Jest, React Testing Library, Playwright, Storybook, JUnit, RSpec"
-    categories: []
-    url: ""
+    summary: Jest, React Testing Library, Playwright, Storybook, JUnit, RSpec
+    # categories: ["basic"]
+    # url: "https://prometheus.io/"
 
   - name: Other Tools
     logo: /images/sections/skills/other-tools.png
-    summary: "Jira, Confluence, Contentful"
-    categories: []
-    url: ""
+    summary: Jira, Confluence, Contentful
+    # categories: ["others"]
+
+  # - name: Git
+  #   logo: /images/sections/skills/git.png
+  #   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  #   categories: ["basic"]
+  #   url: "https://git-scm.com/"
+
+  # - name: C++
+  #   logo: /images/sections/skills/c++.png
+  #   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  #   categories: ["basic", "language"]
